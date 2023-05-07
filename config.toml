@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Hello Friend NG"
+title   = "The theses"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "I & W"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Pero empezo la cuenta regresiva"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Tic tac"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -114,11 +114,11 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
+    trademark = false
     rss = true
-    copyright = true
-    author = true
-
+    copyright = false
+    author = false
+    
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
@@ -168,9 +168,9 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+  #[[params.social]]
+  # name = "email"
+  # url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
