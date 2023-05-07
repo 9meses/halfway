@@ -7,9 +7,6 @@ type:
 - post
 - posts
 title: Primer Día
-weight: 10
-series:
-- Hugo 101
 ---
 
 Apache lo use ya hace dos años. No lo recuerdo. Es lo primero que hare. W.
