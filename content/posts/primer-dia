@@ -1,14 +1,15 @@
-+++
-categories = ["Hugo"]
-date = "2023-05-05"
-description = "Primer dia"
-featured = "pic01.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
-title = "Primer dia"
-slug = "Primer dia"
-type = "post"
-+++
+---
+author:
+  name: "Wilson"
+date: 2023-05-06
+linktitle: Primer Día
+type:
+- post
+- posts
+title: Primer Día
+weight: 10
+series:
+- Hugo 101
+---
 
 Apache lo use ya hace dos años. No lo recuerdo. Es lo primero que hare. W.
